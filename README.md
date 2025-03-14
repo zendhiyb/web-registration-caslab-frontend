@@ -1,1 +1,1 @@
-https://zendhiyb.github.io/Web-Pendaftaran-Casleb-Frontend/
+https://zendhiyb.github.io/web-registration-caslab-frontend/
